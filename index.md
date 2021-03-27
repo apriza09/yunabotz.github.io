@@ -1,37 +1,138 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/apriza09/yunabotz.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<!DOCTYPE html>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<html lang="id">
 
-### Markdown
+  <head>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  <html lang="en">
 
-```markdown
-Syntax highlighted code block
+<head>
 
-# Header 1
-## Header 2
-### Header 3
+  <meta charset="UTF-8">
 
-- Bulleted
-- List
+  <title>Musik</title>
 
-1. Numbered
-2. List
+</head>
 
-**Bold** and _Italic_ and `Code` text
+<body>
 
-[Link](url) and ![Image](src)
-```
+  <h1>Musik Nih</h1>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+  <audio controls>
 
-### Jekyll Themes
+    <source src="https://github.com/apriza09/aboutme.github.io/raw/main/audio/teh kantung.mp3" type="audio/mpeg">
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/apriza09/yunabotz.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+    Browsermu tidak mendukung tag audio, upgrade donk!
 
-### Support or Contact
+  </audio>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</body>
+
+</html>
+
+    <meta charset="utf-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta name="description" content="APP Caranya My Id, Web Aplikasi Yang Berguna Untuk 1000 Umat" />
+
+    <meta name="author" content="AgustD" />
+
+    <meta content='#007FFF' name='theme-color'/>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+
+    <base target="_blank"/>
+
+    <title>About Hads</title>
+
+    <style>
+
+      @import url('https://fonts.googleapis.com/css?family=Poppins');
+
+      *{
+
+        font-family: 'Poppins', sans-serif;
+
+      }
+
+    </style>
+
+  </head>
+
+  <body>
+
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary bg-gradient shadow mb-3">
+
+    <div class="container">
+
+      <a class="navbar-brand fw-bold" href="/">Contacts</a>
+
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+
+        <span class="navbar-toggler-icon"></span>
+
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarNav">
+
+        <ul class="navbar-nav">
+
+          <li class="nav-item">
+
+            <a class="nav-link active" aria-current="page" href="https://instagram.com/apriza_09">my Instagram</a>
+
+          </li>
+
+          <li class="nav-item">
+
+            <a class="nav-link active" aria-current="page" href="https://instagram.com/daffi_d_2607">Instagram partner</a>
+
+          </li>
+
+            <li class="nav-item">
+
+            <a class="nav-link active" aria-current="page" href="https://chat.whatsapp.com/JC8RUcuy5q2B1plmsz1uAq">Official Group</a>
+
+          </li>
+
+        </ul>
+
+      </div>
+
+    </div>
+
+  </nav>
+
+  <div class="container-fluid">
+
+    <div class="card m-3 text-center shadow">
+
+      <h2 class="card-header shadow-sm bg-primary text-white">About Me</h2>
+
+      <div class="card-body">
+
+      <div class="text-center">
+
+        <img src="https://avatars.githubusercontent.com/u/80442721?v=4" class="rounded-circle shadow mb-3" alt="Hads" width="150px" height="150px">
+
+      </div>
+
+        <p class="card-text text-shadow">Halo teman selamat datang website ini saya buat karena gabut saja<br/>Umur saya baru 15 tahun dan masih menjadi seorang pelajar di SMPN 3 KARAWANG TIMUR<br/>Saya masih belajar tentang programming<br/>Belajar programming Otodidak, mulai dari YouTube dan web2 lainnya<br/>
+
+        Dengan nama asli saya <b>Fahad Vidjar Apriza</b><br/>Bahasa pemrograman yang saya ketahui hanya sedikit, yaitu (HTML/JavaScript), Python, C++<b/><br/>Saya juga punya projects bot whatsapp yang sekarang masih dalam pengembangan, mohon dukungan dan doa nya agar bot whatsapp saya bermanfaat bagi semuanya. Mau nyobain bot saya? Silahkan hubungi kami<br/>Terimakasih Telah Berkunjung.</p>
+
+      </div>
+
+    </div>
+
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
+
+  </body>
+
+</html>
+
